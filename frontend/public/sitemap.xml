@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.techkisan.com/</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/automationservices</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/solarservices</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/securitysolutions</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/itservices</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/aboutus</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/contactus</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techkisan.com/login</loc>
+    <lastmod>2025-05-27</lastmod>
+    <priority>0.40</priority>
+  </url>
+
+</urlset>
